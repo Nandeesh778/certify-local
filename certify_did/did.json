@@ -6,7 +6,7 @@
   "id": "did:web:Nandeesh778.github.io:certify-local:certify_did",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6MkkTkKE7JQkST3tDQLiQvtdqRvZHUuV7WfmzQddhMkB2FP",
+      "publicKeyMultibase": "z6MkhVtoqmbvLxd3uPzqECKaqc7Za9Hrs2ZvhdG6pMZoUo7U",
       "controller": "did:web:Nandeesh778.github.io:certify-local:certify_did",
       "id": "did:web:Nandeesh778.github.io:certify-local:certify_did#key-0",
       "type": "Ed25519VerificationKey2020",
